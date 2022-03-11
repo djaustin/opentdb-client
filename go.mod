@@ -1,3 +1,3 @@
-module github.com/djaustin/opentdb-client
+module github.com/djaustin/otdb-client
 
 go 1.17
